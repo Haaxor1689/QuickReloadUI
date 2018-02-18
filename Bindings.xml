@@ -1,0 +1,7 @@
+<Bindings>
+    <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
+        <Category name="Quick ReloadUI">
+            <Action name="RELOAD_UI"><Down>ReloadUI("ingame")</Down></Action>
+        </Category>
+    </Layer>
+</Bindings>

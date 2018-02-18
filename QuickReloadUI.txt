@@ -1,0 +1,10 @@
+## Title: Quick ReloadUI
+## Version: 1.0
+## Author: Haaxor1689
+## APIVersion: 100022
+
+## OptionalDependsOn: QuickMenu
+
+## Core:
+QuickReloadUI.lua
+Bindings.xml
